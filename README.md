@@ -216,3 +216,36 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
     </tr>
   </tbody>
 </table>
+
+# Capítulo I: Introducción
+## 1.1. Startup Profile
+### 1.1.1 Descripción de la Startup
+EcoGo es una startup que surge como respuesta a la creciente preocupación por la movilidad urbana sostenible y la reducción de las emisiones de carbono en entornos urbanos. A través de su propuesta de solución EcoMove, se dedica a facilitar el uso compartido de vehículos eléctricos entre usuarios, con el objetivo de disminuir la dependencia de los vehículos de combustión interna y fomentar un estilo de vida más respetuoso con el medio ambiente.
+
+EcoGo no solo ofrece una plataforma para alquilar vehículos eléctricos de manera conveniente, sino que también colabora con empresas locales y marcas comprometidas con la sostenibilidad. A través de alianzas estratégicas, proporciona recursos adicionales para expandir su flota de vehículos y mejorar la infraestructura de carga, promoviendo así el uso de energía limpia en el transporte.
+
+EcoMove aprovecha la tecnología para conectar a los usuarios con vehículos eléctricos compartidos, ofreciendo tarifas diferenciadas, membresías con beneficios exclusivos y programas de fidelización para incentivar el uso recurrente de la plataforma y promover un estilo de vida urbano más sostenible.
+
+|Misión|Visión|
+|------|------|
+|Promover una movilidad urbana sostenible mediante el uso compartido de vehículos eléctricos, contribuyendo a la reducción de emisiones de carbono y creando ciudades más limpias y habitables.|Liderar la revolución hacia una movilidad urbana más limpia y accesible, siendo la opción preferida de transporte eléctrico compartido a nivel global.|
+
+### 1.1.2. Perfiles de integrantes del equipo
+
+|<!-- -->|<!-- -->|
+|--------|--------|
+|Nombre|Ames Oviedo, Mariano José (U202211371)|
+|Soy Mariano, tengo 18 años actualmente curso mi 5to ciclo de la carrera de Ingeniería de Software. Me considero una persona responsable y dispuesta a afrontar desafíos. Considero que estas cualidades beneficiaran a mi equipo para poder completar un trabajo de calidad.||
+|Nombre|Coraje Bayona, Jair Andreé (U202118775)|
+|.||
+|Nombre|Horna Silva, Fabio Ernesto (U202020229)|
+|.||
+|Nombre|Lecca Choccare, Christopher Bryan (U202211399)|
+|Soy Christopher, tengo 19 años y actualmente curso mi 5to ciclo de la carrera de Ingeniería de Software. Considero que mi determinación y disposición aportarán de manera significativa a presentar junto a mi equipo, trabajos de calidad. Además, mi capacidad rápida de aprendizaje ayudará a emplear las nuevas tecnologías enseñadas en el curso de forma eficiente.||
+|Nombre|Sosa Colca, Angello Rodolfo (U202212027)|
+|Tengo 18 años y curso el 5to ciclo de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, soy una persona enfocada, perseverante y colaborativo. Estas cualidades me permiten ser una persona que ayudará de manera óptima el requisito que se me imponga. Además, soy una persona que apoya cuando los demás se encuentran en problemas.||
+|Nombre|Tongo Alejandro, Milagros Salet (U202116078)|
+|Tengo 19 años y curso el 5to ciclo de la carrera de Ingeniería de Software. Me parece muy interesante crear soluciones en el computador y me gusta aprender cosas nuevas, como por ejemplo nuevos lenguajes de programación. Me considero una persona habilidosa y responsable.||
+
+## 1.2. Solution Profile
+### 1.2.1	Antecedentes y problemática
