@@ -258,7 +258,21 @@ La preocupación por la contaminación atmosférica y la calidad del aire en las
 
 Ante esta problemática, surge la necesidad de explorar alternativas de transporte más sostenibles y eficientes. Una opción prometedora es el uso de scooters eléctricos, que ofrecen una solución viable para evitar la congestión del tráfico y optimizar los tiempos de desplazamiento en distancias cortas. En la práctica, muchas personas utilizan scooters eléctricos para satisfacer sus necesidades de transporte en lo que se conoce como la "última milla", es decir, para conectarse con otros medios de transporte público o para realizar actividades cotidianas como ir al banco, la oficina o el gimnasio. Los scooters eléctricos son especialmente adecuados para viajes cortos de 3 a 7 kilómetros, con una duración promedio de 13 a 15 minutos, lo que los convierte en una opción conveniente y eficiente para los desplazamientos urbanos (Stakeholders, 2023).
 
+**Problemática:**
+
+|<!-- -->|<!-- -->|
+|--------|--------|
+|What (Qué):<br>¿Cuál es el problema?|El problema central que enfrenta la sociedad es la dependencia generalizada de los vehículos de combustión interna en entornos urbanos, lo que resulta en altos niveles de contaminación del aire y emisiones de carbono. Esta situación no solo afecta la calidad del aire y la salud pública, sino que también contribuye al cambio climático y a la degradación ambiental.|
+|When (Cuándo):<br>¿Cuándo sucede el problema?|El problema de la dependencia de los vehículos de combustión interna en entornos urbanos es persistente y ocurre constantemente. Se manifiesta a diario en la congestión del tráfico, la contaminación del aire y la emisión continua de gases de efecto invernadero.|
+|Where (Dónde):<br>¿Dónde se presenta el problema de negocio?|Este problema se presenta principalmente en áreas urbanas densamente pobladas donde hay una alta concentración de vehículos motorizados. Ciudades de todo el mundo enfrentan desafíos similares relacionados con la movilidad urbana y la contaminación del aire.|
+|Who (Quienes):<br>¿Quiénes están involucrados?|Los principales actores involucrados en esta problemática son los residentes urbanos que dependen de los vehículos para sus desplazamientos diarios, así como las autoridades gubernamentales y las empresas de transporte que tienen un papel clave en la formulación de políticas y la implementación de soluciones de movilidad sostenible.|
+|Why (Por qué):<br>¿Por qué se origina el problema?|Este problema surge de varios factores, que incluyen la falta de infraestructura adecuada para el transporte público, la promoción histórica del uso del automóvil privado, la falta de conciencia sobre los impactos ambientales del transporte y la falta de alternativas accesibles y asequibles de movilidad sostenible.|
+|How (Cómo):<br>¿Cómo afecta este problema a las personas involucradas?|La dependencia de los vehículos de combustión interna afecta a las personas involucradas al contribuir a la contaminación del aire, empeorar la congestión del tráfico, aumentar los costos de transporte y tener impactos negativos en la salud pública y la calidad de vida en general.|
+|How much (Cuánto):<br>¿Cuánto impacto genera el problema en la sociedad?|El problema de la dependencia de los vehículos de combustión interna tiene un impacto significativo en la sociedad, afectando la salud pública, contribuyendo al cambio climático y la degradación ambiental, aumentando los costos económicos asociados con la congestión del tráfico y generando una baja calidad de vida en las áreas urbanas.|
+
+
 # Bibliografía
+
 
 Espinoza, A. (18 de agosto de 2023). _Vehículos viejos y transporte público causan el 58% de contaminación del aire en Lima_. Infobae. https://www.infobae.com/peru/2023/08/18/vehiculos-viejos-y-transporte-publico-causan-el-58-de-contaminacion-del-aire-en-lima/
 
