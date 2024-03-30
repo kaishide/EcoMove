@@ -184,6 +184,7 @@
 |[4.7.2. Class Dictionary](#472-class-dictionary)|
 |[4.8. Database Design](#48-database-design)|
 |[4.8.1. Database Diagram](#481-database-diagram)|
+|[Bibliografía](#bibliografía)|
 
 # Student Outcome
 
@@ -217,6 +218,7 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
   </tbody>
 </table>
 
+
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1 Descripción de la Startup
@@ -249,3 +251,17 @@ EcoMove aprovecha la tecnología para conectar a los usuarios con vehículos el�
 
 ## 1.2. Solution Profile
 ### 1.2.1	Antecedentes y problemática
+
+La problemática del envejecimiento de la flota vehicular en el transporte público y los servicios de taxi en el Perú es un tema de preocupación creciente debido a sus impactos negativos en la salud pública y el medio ambiente. Según datos proporcionados por un organismo adscrito al Ministerio de Transportes y Comunicaciones (MTC), aproximadamente el 30,6% de los vehículos que operan en el transporte público regular y alrededor del 9% de los vehículos de servicio de taxis tienen una antigüedad de más de 15 años (Espinoza, 2023). Esta situación se traduce en un riesgo significativo para la salud y la seguridad de los usuarios, ya que se estima que los vehículos con más de dos décadas de uso emiten hasta 53 veces más contaminantes que los vehículos más nuevos, los cuales tienen 5 años o menos.
+
+La preocupación por la contaminación atmosférica y la calidad del aire en las ciudades ha llevado a la implementación de diversas medidas por parte de las autoridades locales, como el impuesto sobre vehículos antiguos por parte de la Municipalidad de Lima y el programa "Pico y placa". Este último consistía en restringir la circulación de vehículos basándose en el último dígito de la placa del automóvil, con el objetivo de reducir la cantidad de vehículos en circulación y mejorar el flujo de tráfico. Sin embargo, a pesar de estos esfuerzos, estas medidas no han tenido el éxito esperado y la congestión vehicular sigue siendo un problema significativo en varias zonas de la ciudad (Romero, et al., 2022).
+
+Ante esta problemática, surge la necesidad de explorar alternativas de transporte más sostenibles y eficientes. Una opción prometedora es el uso de scooters eléctricos, que ofrecen una solución viable para evitar la congestión del tráfico y optimizar los tiempos de desplazamiento en distancias cortas. En la práctica, muchas personas utilizan scooters eléctricos para satisfacer sus necesidades de transporte en lo que se conoce como la "última milla", es decir, para conectarse con otros medios de transporte público o para realizar actividades cotidianas como ir al banco, la oficina o el gimnasio. Los scooters eléctricos son especialmente adecuados para viajes cortos de 3 a 7 kilómetros, con una duración promedio de 13 a 15 minutos, lo que los convierte en una opción conveniente y eficiente para los desplazamientos urbanos (Stakeholders, 2023).
+
+# Bibliografía
+
+Espinoza, A. (18 de agosto de 2023). _Vehículos viejos y transporte público causan el 58% de contaminación del aire en Lima_. Infobae. https://www.infobae.com/peru/2023/08/18/vehiculos-viejos-y-transporte-publico-causan-el-58-de-contaminacion-del-aire-en-lima/
+
+Romero, V., Salazar, L., Solís, A. & Solís, J. (2022). Congestión Vehicular y Contaminación Ambiental en Lima Metropolitana. _Revista Lasallista de Investigación_, _19_(1), 152-164.
+
+Stakeholders. (28 de setiembre de 2023). _La idea de la micromovilidad es ahorrar tiempo en el tráfico y colaborar con el cuidado del medio ambiente_. https://stakeholders.com.pe/ciencia-innovacion-y-tecnologia/innovacion-y-emprendimientos/la-idea-de-la-micromovilidad-es-ahorrar-tiempo-en-el-trafico-y-colaborar-con-el-cuidado-del-medio-ambiente/
