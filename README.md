@@ -301,8 +301,22 @@ Ante esta situación, surge nuestra pregunta de negocio: ¿Cómo podemos ofrecer
 
 - **Satisfacción emocional:** Los usuarios podran ver datos sobre el impacto ambiental de los medios de transporte, dandole satisfacción al usuario al poder ver los resultados de las acciones que realiza en el ambiente.
 
+#### 1.2.2.3. Lean UX Hypothesis Statements
 
-## 1.3. Segmentos objetivos:
+- **Creemos que** al brindar una manera eficaz, segura y limpia de transportarse a los usuarios, se sentiran mas atraidos a utilizar el medio de transporte que utilizamos. **Sabremos que** hemos tenido exito, **cuando** veamos una mayor cantidad de usuarios utilizando el producto y utilizando los beneficios que les brindamos.
+
+- **Creemos que** al brindar alternativas de transporte limpio a la población, reduciremos la problematica de la contaminación en el país. **Sabremos que** hemos tenido exito **cuando** se evidencie una mejora en la contaminación presente actualmente.
+
+- **Creemos que** al brindar una aplicación facil y comoda de usar, podremos llegar a publico que usualmente no se encontraria atraido a este tipo de transportes. **Sabremos que** hemos tenido exito **cuando** podamos observar una mayor variedad y cantidad de personas utilizando nuestro producto.
+
+- **Creemos que** al brindar alternativas a los automoviles tradicionales, lograremos disminuir el tiempo perdido por trafico de carros en la ciudad. **Sabremos que** hemos tenido exito **cuando** se evidencie que los usuarios comenten sobre sus resultados en la pagina.
+
+#### 1.2.2.4. Lean UX Canvas
+
+
+# Capitulo II: Requirements Elicitation & Analysis
+
+## 1.3. Segmentos objetivos
 ### Estudiantes universitarios urbanos:
 - **Descripción**: Estudiantes que viven en áreas urbanas y asisten a universidades o institutos locales.
 - **Necesidades y deseos**: Necesitan un medio de transporte económico y conveniente para desplazarse entre su hogar, el campus universitario, bibliotecas y otros lugares de interés cercanos. Desean una forma rápida y sencilla de moverse sin depender del transporte público o el automóvil.
