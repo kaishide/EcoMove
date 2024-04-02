@@ -316,7 +316,7 @@ Ante esta situación, surge nuestra pregunta de negocio: ¿Cómo podemos ofrecer
 
 
 
-## 1.3. Segmentos objetivos
+## 1.3. Segmentos objetivo
 ### Estudiantes universitarios urbanos:
 - **Descripción**: Estudiantes que viven en áreas urbanas y asisten a universidades o institutos locales.
 - **Necesidades y deseos**: Necesitan un medio de transporte económico y conveniente para desplazarse entre su hogar, el campus universitario, bibliotecas y otros lugares de interés cercanos. Desean una forma rápida y sencilla de moverse sin depender del transporte público o el automóvil.
