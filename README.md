@@ -327,7 +327,7 @@ Ante esta situación, surge nuestra pregunta de negocio: ¿Cómo podemos ofrecer
 - **Necesidades y deseos**: Desean una opción de transporte ágil que les permita llegar a sus destinos de manera rápida y sin los retrasos causados por el tráfico. Valorizan la conveniencia y la eficiencia en sus desplazamientos diarios.
 - **Comportamiento de uso**: Utilizan la aplicación para alquilar bicicletas o scooters eléctricos como una alternativa al automóvil o al transporte público, especialmente durante las horas pico de tráfico. Prefieren rutas menos congestionadas y opciones que les permitan moverse de manera rápida y fluida por la ciudad.
 
-# Capitulo II: Requirements Elicitation & Analysis
+# Capítulo II: Requirements Elicitation & Analysis
 
 # Bibliografía
 
