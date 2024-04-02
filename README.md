@@ -270,6 +270,14 @@ Ante esta problemática, surge la necesidad de explorar alternativas de transpor
 |How (Cómo):<br>¿Cómo afecta este problema a las personas involucradas?|La dependencia de los vehículos de combustión interna afecta a las personas involucradas al contribuir a la contaminación del aire, empeorar la congestión del tráfico, aumentar los costos de transporte y tener impactos negativos en la salud pública y la calidad de vida en general.|
 |How much (Cuánto):<br>¿Cuánto impacto genera el problema en la sociedad?|El problema de la dependencia de los vehículos de combustión interna tiene un impacto significativo en la sociedad, afectando la salud pública, contribuyendo al cambio climático y la degradación ambiental, aumentando los costos económicos asociados con la congestión del tráfico y generando una baja calidad de vida en las áreas urbanas.|
 
+### 1.2.2 Lean UX Process
+#### 1.2.2.1 Lean UX Problem Statement
+Nuestro contexto demanda abordar la dificultad que enfrentan las personas que no pueden conseguir un medio de transporte eficaz y seguro,
+Si bien se presentan opciones, estas no siempre demuestran ser eficaces debido a la congestión vehicular de la ciudad.
+
+Tambien se puede observar una falta de opciones que sean limpias para el medio ambiente. Aunque el estado muestra preocupación  implementando medidas que apoyen a este contexto, aun no se logra una solución eficaz, segura y limpia para todos.
+
+Ante esta situación, surge nuestra pregunta de negocio: ¿Cómo podemos ofrecer medios de transporte efectivos para las personas y limpios para el bien ambiente, teniendo en cuenta tambien la seguridad del usuario?
 
 # Bibliografía
 
