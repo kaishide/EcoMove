@@ -299,7 +299,19 @@ Ante esta situación, surge nuestra pregunta de negocio: ¿Cómo podemos ofrecer
 
 - **Variedad de opciones:** Los usuarios tendran acceso a diferentes tipos de vehiculos o tarifas, dependiendo de lo que requieran en el momento. Todo el proceso sera por medio de la aplicación, facilitando y mejorando su experiencia. 
 
-- **Satisfacción emocional:** Los usuarios podran ver datos sobre el impacto ambiental de los medios de transporte, dandole satisfacción al usuario al poder ver los resultados de las acciones que realiza en el ambiente. 
+- **Satisfacción emocional:** Los usuarios podran ver datos sobre el impacto ambiental de los medios de transporte, dandole satisfacción al usuario al poder ver los resultados de las acciones que realiza en el ambiente.
+
+
+## 1.3. Segmentos objetivos:
+### Estudiantes universitarios urbanos:
+- **Descripción**: Estudiantes que viven en áreas urbanas y asisten a universidades o institutos locales.
+- **Necesidades y deseos**: Necesitan un medio de transporte económico y conveniente para desplazarse entre su hogar, el campus universitario, bibliotecas y otros lugares de interés cercanos. Desean una forma rápida y sencilla de moverse sin depender del transporte público o el automóvil.
+- **Comportamiento de uso**: Utilizan la aplicación para alquilar bicicletas o scooters eléctricos principalmente durante los días de clase y para actividades recreativas los fines de semana. Prefieren rutas seguras y accesibles que les permitan evitar el tráfico y llegar a sus destinos rápidamente.
+
+### Ciudadanos en busca de movilidad rápida y evitando el tráfico:
+- **Descripción**: Personas que viven o trabajan en áreas urbanas y buscan una forma rápida de desplazarse evitando el tráfico.
+- **Necesidades y deseos**: Desean una opción de transporte ágil que les permita llegar a sus destinos de manera rápida y sin los retrasos causados por el tráfico. Valorizan la conveniencia y la eficiencia en sus desplazamientos diarios.
+- **Comportamiento de uso**: Utilizan la aplicación para alquilar bicicletas o scooters eléctricos como una alternativa al automóvil o al transporte público, especialmente durante las horas pico de tráfico. Prefieren rutas menos congestionadas y opciones que les permitan moverse de manera rápida y fluida por la ciudad.
 
 # Bibliografía
 
