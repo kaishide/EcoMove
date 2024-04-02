@@ -313,21 +313,119 @@ Ante esta situación, surge nuestra pregunta de negocio: ¿Cómo podemos ofrecer
 
 #### 1.2.2.4. Lean UX Canvas
 
-
-
-
-## 1.3. Segmentos objetivo
 ### Estudiantes universitarios urbanos:
 - **Descripción**: Estudiantes que viven en áreas urbanas y asisten a universidades o institutos locales.
 - **Necesidades y deseos**: Necesitan un medio de transporte económico y conveniente para desplazarse entre su hogar, el campus universitario, bibliotecas y otros lugares de interés cercanos. Desean una forma rápida y sencilla de moverse sin depender del transporte público o el automóvil.
 - **Comportamiento de uso**: Utilizan la aplicación para alquilar bicicletas o scooters eléctricos principalmente durante los días de clase y para actividades recreativas los fines de semana. Prefieren rutas seguras y accesibles que les permitan evitar el tráfico y llegar a sus destinos rápidamente.
-
 ### Ciudadanos en busca de movilidad rápida y evitando el tráfico:
 - **Descripción**: Personas que viven o trabajan en áreas urbanas y buscan una forma rápida de desplazarse evitando el tráfico.
 - **Necesidades y deseos**: Desean una opción de transporte ágil que les permita llegar a sus destinos de manera rápida y sin los retrasos causados por el tráfico. Valorizan la conveniencia y la eficiencia en sus desplazamientos diarios.
 - **Comportamiento de uso**: Utilizan la aplicación para alquilar bicicletas o scooters eléctricos como una alternativa al automóvil o al transporte público, especialmente durante las horas pico de tráfico. Prefieren rutas menos congestionadas y opciones que les permitan moverse de manera rápida y fluida por la ciudad.
 
 # Capítulo II: Requirements Elicitation & Analysis
+
+## 2.1. Competidores
+### 2.1.1. Análisis competitivo
+
+<table>
+    <thead>
+    <tr>
+    <th colspan= 6>Competitive Analysis Landscape</th>
+    </tr>
+        <tr>
+    <th colspan= 6>El objetivo del análisis fue examinar y elaborar estrategias de mercado que nos permitan competir eficazmente tanto con nuestros competidores directos como con aquellos que influyen de manera indirecta en nuestro mercado.</th>
+    </tr>
+        <tr>
+    <th colspan= 6>¿Cuáles podrían ser las estrategias efectivas para diferenciar y destacar nuestra aplicación 'EcoMove' en el mercado de manera que facilite e incentive el uso de transporte sostenible y la reducción de la huella de carbono en áreas urbanas? </th>
+    </tr>
+        <tr>
+            <th colspan= 2></th>
+            <th>Ecomove</th>
+            <th>Grin</th>
+            <th>Bee</th>
+            <th>Whoosh</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=2 align="center">Perfil</td>
+            <td align="center">Overview</td>
+            <td align="center">EcoMove es una plataforma de transporte compartido con vehículos eléctricos, sostenible y futurista. La cual ofrece una idea novedosa que permite la concientización de las personas con el medio ambiente</td>
+            <td  align="center">Grin es una plataforma líder en el alquiler de bicicletas y scooters eléctricos en América Latina. Ofrece una amplia gama de vehículos disponibles para alquiler a través de su aplicación móvil en ciudades de varios países de la región.</td>
+            <td  align="center">Bee es una opción popular para aquellos que buscan soluciones de movilidad sostenible en ciudades latinoamericanas. La aplicación permite a los usuarios alquilar bicicletas y scooters eléctricos de manera conveniente, contribuyendo así a la reducción del tráfico y la contaminación.</td>
+            <td align="center">Whoosh es una aplicación de alquiler de bicicletas eléctricas y patinetes que opera en ciudades selectas de América del Norte y Europa. Ofrece una forma rápida y ecológica de desplazarse por áreas urbanas y campus universitarios.</td>
+        </tr>
+        <tr>
+            <td align="center">Ventaja competitiva ¿Qué valor ofrece a los clientes?</td>
+            <td align="center">EcoMove ofrece tarifas diferenciadas basadas en la duración del alquiler, la distancia recorrida y el tipo de vehículo eléctrico, junto con membresías, publicidad colaborativa y programas de fidelización.</td>
+            <td align="center">Grin destaca por su amplia cobertura en ciudades latinoamericanas y sus precios competitivos. Además, su interfaz intuitiva y promociones especiales atraen a una amplia base de usuarios en la región.</td>
+            <td align="center">Bee ofrece una diversidad de vehículos disponibles para alquiler, así como una atención al cliente personalizada que asegura una experiencia satisfactoria para los usuarios. Su enfoque en la movilidad verde y las alianzas con empresas locales son también aspectos destacados.</td>
+            <td align="center">Whoosh se destaca por su integración con sistemas de transporte público y sus tarifas flexibles, lo que lo hace atractivo para aquellos que buscan opciones de movilidad convenientes y asequibles.</td>
+        </tr>
+        <tr>
+            <td rowspan= 5 align="center">Perfil de Marketing</td>
+            <td align="center">Mercado Objetivo</td>
+                        <td align="center">El mercado objetivo de EcoMove son los residentes urbanos conscientes del medio ambiente, los turistas preocupados por la sostenibilidad y las empresas comprometidas con la reducción de su huella de carbono.</td>
+            <td align="center">Grin tiene como mercado objetivo a residentes urbanos, turistas y estudiantes en América Latina, ofreciendo opciones de movilidad sostenible y conveniente en ciudades congestionadas.</td>
+            <td align="center">Bee se dirige principalmente a ciudadanos urbanos y viajeros en ciudades seleccionadas de América Latina, ofreciendo una alternativa de transporte ecológica y eficiente.</td>
+            <td align="center">Whoosh está dirigido a usuarios urbanos y campus universitarios en América del Norte y Europa, proporcionando opciones de movilidad rápida y sostenible en áreas metropolitanas y entornos universitarios.</td>
+        </tr>
+        <tr>
+                    <td align="center">Estrategias de Marketing</td>
+            <td align="center">EcoMove implementa campañas de publicidad digital dirigidas a usuarios urbanos y turistas, colaboraciones con empresas locales para promocionar la sostenibilidad y eventos especiales para aumentar la visibilidad de la plataforma.</td>
+            <td align="center">Grin utiliza una combinación de publicidad en redes sociales, promociones especiales y colaboraciones con eventos locales para promover su plataforma y atraer nuevos usuarios. También se enfoca en la expansión a nuevos mercados y alianzas estratégicas.</td>
+            <td align="center">Bee lleva a cabo campañas de marketing digital dirigidas a usuarios urbanos y viajeros, así como alianzas con empresas locales y eventos de lanzamiento para aumentar su visibilidad y atraer clientes potenciales.</td>
+            <td align="center">Whoosh participa en eventos de movilidad sostenible, promociona sus membresías y colabora con universidades para llegar a su mercado objetivo y diferenciarse de la competencia.</td>
+        </tr>
+        <tr>
+                    <td align="center">Productos & servicios</td>
+            <td align="center">Los productos y servicios ofrecidos por EcoMove incluyen el alquiler de vehículos eléctricos con tarifas diferenciadas, membresías con beneficios exclusivos, opciones de publicidad colaborativa, programas de fidelización, así como servicios adicionales como alquiler de accesorios y seguros premium.</td>
+            <td align="center">Grin ofrece alquiler de bicicletas y scooters eléctricos a través de su aplicación móvil, con una variedad de opciones de vehículos y precios por minuto. Los usuarios pueden ubicar y desbloquear vehículos de forma rápida y sencilla.</td>
+            <td align="center">Bee proporciona alquiler de bicicletas y scooters eléctricos mediante su aplicación móvil y estaciones físicas de alquiler, con tarifas por minuto y paquetes de tiempo disponibles para adaptarse a las necesidades de los usuarios.</td>
+            <td align="center">Whoosh permite el alquiler de bicicletas eléctricas y patinetes a través de su aplicación móvil, con tarifas por minuto o por viaje y opciones de membresía mensual para usuarios frecuentes.</td>
+        </tr>
+                <tr>
+                    <td align="center">Precios & Costos</td>
+            <td align="center">EcoMove establece tarifas variables basadas en la duración del alquiler, la distancia recorrida y el tipo de vehículo, con membresías y suscripciones disponibles.</td>
+            <td align="center">Grin ofrece tarifas por minuto o paquetes de tiempo con precios competitivos en el mercado latinoamericano, lo que lo hace accesible para una amplia gama de usuarios.</td>
+            <td align="center">Bee tiene tarifas por minuto o paquetes de tiempo, con membresías mensuales disponibles para aquellos que utilizan el servicio con frecuencia. Los costos varían según la duración del alquiler y el tipo de vehículo.</td>
+            <td align="center">Whoosh tiene tarifas por minuto o por viaje, así como opciones de membresía mensual para usuarios regulares. Los precios pueden variar según la ubicación y la disponibilidad de vehículos.</td>
+        </tr>
+                <tr>
+                    <td align="center">Canales de distribución (Web y/o móvil)</td>
+            <td align="center">La distribución de EcoMove se realiza a través de su plataforma web</td>
+            <td align="center">Grin distribuye su servicio a través de su aplicación móvil para dispositivos Android e iOS, ofreciendo una experiencia de alquiler conveniente y accesible para los usuarios en movimiento.</td>
+            <td align="center">Bee utiliza su aplicación móvil para Android e iOS, así como estaciones físicas de alquiler ubicadas estratégicamente en ciudades seleccionadas para facilitar el acceso a sus servicios.</td>
+            <td align="center">Whoosh ofrece su servicio exclusivamente a través de su aplicación móvil para Android e iOS, proporcionando una experiencia de alquiler rápida y sin complicaciones para los usuarios urbanos.</td>
+        </tr>
+                <tr>
+            <td rowspan= 4 align="center">Análisis SWOT</td>
+            <td align="center">Fortalezas</td>
+                        <td align="center">Las fortalezas de EcoMove incluyen su enfoque en la sostenibilidad, las tarifas diferenciadas y las membresías para incentivar el uso recurrente, las colaboraciones con empresas locales y marcas para aumentar la visibilidad, y los programas de fidelización para mejorar la retención de usuarios.</td>
+            <td align="center">La amplia cobertura en América Latina y los precios competitivos son las principales fortalezas de Grin. Además, su interfaz intuitiva y promociones especiales atraen a una amplia base de usuarios.</td>
+            <td align="center">La diversidad de vehículos disponibles y la atención al cliente personalizada son las principales fortalezas de Bee. Además, su enfoque en la movilidad verde y las alianzas con empresas locales son aspectos destacados.</td>
+            <td align="center">La integración con sistemas de transporte público y las tarifas flexibles son las principales fortalezas de Whoosh. Además, su enfoque en la movilidad sostenible y las colaboraciones con universidades son aspectos diferenciadores.</td>
+        </tr>
+                    <td align="center">Debilidades</td>
+                        <td align="center">Las posibles debilidades de EcoMove incluyen la resistencia al cambio hacia la movilidad eléctrica, la competencia de otras plataformas de transporte compartido y la necesidad de establecer una red de estaciones de carga sólida y confiable.</td>
+            <td align="center">La limitada presencia fuera de América Latina y las regulaciones gubernamentales son las principales debilidades de Grin. Además, la competencia creciente en el mercado puede representar un desafío.</td>
+            <td align="center">La disponibilidad limitada en algunas ciudades y la competencia creciente en el mercado son las principales debilidades de Bee. Además, las fluctuaciones en la demanda de movilidad sostenible pueden afectar su rendimiento</td>
+            <td align="center">El alcance geográfico limitado y las menos opciones de vehículos en comparación con otros competidores son las principales debilidades de Whoosh. Además, la competencia intensificada en los mercados objetivo puede representar un desafío.</td>
+        </tr>
+                <td align="center">Oportunidades</td>
+                        <td align="center">Las oportunidades para EcoMove incluyen la creciente conciencia ambiental y la demanda de opciones de transporte sostenible, colaboraciones potenciales con empresas y municipios interesados en promover la movilidad eléctrica, y la posibilidad de expandir a nuevos mercados.</td>
+            <td align="center">La expansión a nuevos mercados y las alianzas con empresas locales representan oportunidades de crecimiento para Grin. Además, la diversificación de servicios puede aumentar su atractivo para los usuarios.</td>
+            <td align="center">La ampliación de la cobertura a más ciudades y la diversificación de servicios representan oportunidades de crecimiento para Bee. Además, las colaboraciones con empresas locales pueden aumentar su visibilidad y atraer nuevos clientes.</td>
+            <td align="center">La entrada a nuevos mercados y las colaboraciones con empresas de transporte público representan oportunidades de crecimiento para Whoosh. Además, la ampliación de la cobertura a más ciudades puede aumentar su base de usuarios.</td>
+        </tr>
+                    <td align="center">Amenazas</td>
+                        <td align="center">Las amenazas para EcoMove pueden ser cambios en las regulaciones gubernamentales que afectan la operación de vehículos eléctricos compartidos, la competencia intensificada de otras plataformas de movilidad sostenible y la necesidad de mantener la infraestructura de carga actualizada y funcional.</td>
+            <td align="center">La competencia creciente en el mercado latinoamericano y las regulaciones gubernamentales pueden representar amenazas para Grin. Además, las fluctuaciones en la demanda de movilidad sostenible pueden afectar su rendimiento.</td>
+            <td align="center">La entrada de nuevos competidores y las fluctuaciones en la demanda de movilidad sostenible son amenazas para Bee. Además, las regulaciones gubernamentales pueden afectar su operación en ciertas ciudades.</td>
+            <td align="center">Los cambios en las regulaciones gubernamentales y la competencia intensificada en los mercados objetivo pueden representar amenazas para Whoosh. Además, las fluctuaciones en la demanda de movilidad sostenible pueden afectar su rendimiento.</td>
+        </tr>
+</table>
+
 
 # Bibliografía
 
