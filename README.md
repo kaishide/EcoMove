@@ -426,6 +426,38 @@ Ante esta situación, surge nuestra pregunta de negocio: ¿Cómo podemos ofrecer
         </tr>
 </table>
 
+### 2.1.2. Estrategias y tácticas frente a competidores
+# Estrategias y Tácticas para EcoMove
+
+Para que EcoMove se posicione como líder en el mercado de alquiler de vehículos eléctricos y supere a sus competidores, es fundamental desarrollar una serie de estrategias y tácticas que diferencien sus servicios y ofrezcan un valor añadido a los clientes. 
+
+## Innovación y Tecnología
+
+En primer lugar, EcoMove debe centrarse en la innovación y en la integración con las tecnologías emergentes en el sector de la movilidad eléctrica, así como en la adaptabilidad a diferentes sistemas y dispositivos existentes en el mercado. Esto permitirá a los usuarios contar con una solución más completa y versátil que se adapte a sus necesidades específicas.
+
+## Alianzas Estratégicas
+
+Es importante establecer alianzas estratégicas con municipios, universidades y empresas locales, lo que permitirá a EcoMove expandirse en nuevas áreas urbanas y ofrecer soluciones personalizadas para diferentes comunidades.
+
+## Experiencia del Usuario
+
+También es esencial mejorar la experiencia del usuario mediante una interfaz fácil de usar y la implementación de funciones adicionales, como rutas personalizadas, información sobre estaciones de carga y eventos relacionados con la movilidad sostenible, lo que facilitará el uso de vehículos eléctricos y enriquecerá la vida urbana de los usuarios.
+
+## Comercialización y Retención
+
+En cuanto a la comercialización, EcoMove debe enfocarse en promociones y campañas de concienciación sobre la movilidad sostenible, así como en la retención de los usuarios existentes a través de programas de fidelización y descuentos por uso frecuente. Realizar estudios de mercado y la identificación de áreas urbanas donde la demanda de vehículos eléctricos sea alta es esencial para el crecimiento de la empresa.
+
+## Seguridad
+
+Para garantizar la seguridad de EcoMove, se implementará una sólida estrategia de seguridad basada en la metodología DevSecOps:
+
+- **Integración Continua y Entrega Segura:** EcoMove utilizará herramientas de integración continua para automatizar la construcción, prueba y despliegue de nuevas versiones de la aplicación. Esto asegurará que cada actualización sea segura y libre de vulnerabilidades antes de llegar a los usuarios, brindando confiabilidad y una experiencia segura.
+
+- **Pruebas de Seguridad Automatizadas:** La implementación de pruebas de seguridad automatizadas en el proceso de desarrollo de EcoMove garantizará que la aplicación esté protegida contra vulnerabilidades conocidas y desconocidas. Esto fortalecerá la seguridad de los datos y la privacidad de los usuarios.
+
+- **Monitoreo Continuo:** EcoMove utilizará herramientas de monitoreo continuo para identificar cualquier actividad sospechosa en tiempo real. Esto permitirá una detección temprana de amenazas y una respuesta inmediata para proteger la aplicación y la información de los usuarios.
+
+
 ## 2.2. Entrevistas
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
