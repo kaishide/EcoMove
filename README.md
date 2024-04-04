@@ -461,12 +461,16 @@ Para garantizar la seguridad de EcoMove, se implementará una sólida estrategia
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
 En esta sección se han definido una cierta cantidad de preguntas para nuestros segmentos objetivos, con la finalidad de obtener información cualitativa como opiniones o descripciones. Esta información nos será de gran ayuda en el desarrollo de nuestra solución.
+
 **Información general del entrevistado**
+
 1.	¿Cómo te llamas?
 2.	¿Cuántos años tienes?
 3.	¿Cuál es su ocupación?
 4.	Actualmente, ¿en qué lugar reside?
+
 **Segmento 1: Estudiantes universitarios urbanos**
+
 1.	¿Cuál es la distancia promedio entre tu hogar y la universidad?
 2.	¿Qué medio de transporte sueles utilizar para desplazarte desde tu hogar hasta la universidad?
 3.	¿Has tenido dificultades para encontrar medios de transporte eficaces y seguros para distancias cortas?
@@ -475,6 +479,7 @@ En esta sección se han definido una cierta cantidad de preguntas para nuestros 
 6.	¿Qué factores influyen más en tu elección de medio de transporte para desplazarte a la universidad (precio, comodidad, rapidez, etc.)?
 7.	¿Estarías dispuesto/a a probar nuevas formas de transporte si fueran más eficientes y amigables con el medio ambiente, especialmente para distancias cortas?
 8.	¿Cómo crees que podríamos mejorar tu experiencia de transporte para desplazarte desde tu hogar hasta la universidad?
+
 **Segmento 2: Ciudadanos en busca de movilidad rápida y evitando el tráfico**
 1.	¿Cuál es tu principal motivo para buscar medios de transporte que te permitan evitar el tráfico en la ciudad?
 2.	¿Qué tan importante es para ti la rapidez al elegir un medio de transporte en tu día a día?
