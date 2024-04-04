@@ -459,6 +459,32 @@ Para garantizar la seguridad de EcoMove, se implementará una sólida estrategia
 
 
 ## 2.2. Entrevistas
+### 2.2.1. Diseño de entrevistas
+En esta sección se han definido una cierta cantidad de preguntas para nuestros segmentos objetivos, con la finalidad de obtener información cualitativa como opiniones o descripciones. Esta información nos será de gran ayuda en el desarrollo de nuestra solución.
+**Información general del entrevistado**
+1.	¿Cómo te llamas?
+2.	¿Cuántos años tienes?
+3.	¿Cuál es su ocupación?
+4.	Actualmente, ¿en qué lugar reside?
+**Segmento 1: Estudiantes universitarios urbanos**
+1.	¿Cuál es la distancia promedio entre tu hogar y la universidad?
+2.	¿Qué medio de transporte sueles utilizar para desplazarte desde tu hogar hasta la universidad?
+3.	¿Has tenido dificultades para encontrar medios de transporte eficaces y seguros para distancias cortas?
+4.	¿Consideras importante la disponibilidad de medios de transporte que te permitan desplazarte de manera rápida y segura a la universidad?
+5.	¿Qué te parecería tener acceso a una aplicación que te ofrezca opciones de transporte específicamente diseñadas para distancias cortas?
+6.	¿Qué factores influyen más en tu elección de medio de transporte para desplazarte a la universidad (precio, comodidad, rapidez, etc.)?
+7.	¿Estarías dispuesto/a a probar nuevas formas de transporte si fueran más eficientes y amigables con el medio ambiente, especialmente para distancias cortas?
+8.	¿Cómo crees que podríamos mejorar tu experiencia de transporte para desplazarte desde tu hogar hasta la universidad?
+**Segmento 2: Ciudadanos en busca de movilidad rápida y evitando el tráfico**
+1.	¿Cuál es tu principal motivo para buscar medios de transporte que te permitan evitar el tráfico en la ciudad?
+2.	¿Qué tan importante es para ti la rapidez al elegir un medio de transporte en tu día a día?
+3.	¿Has considerado utilizar medios de transporte alternativos para evitar el tráfico?
+4.	¿Qué inconvenientes has experimentado al tratar de encontrar medios de transporte rápidos y eficaces en la ciudad?
+5.	¿Estarías interesado/a en probar nuevas opciones de transporte que te ofrezcan una alternativa al tráfico vehicular?
+6.	¿Qué opinas sobre la idea de utilizar medios de transporte más limpios y amigables con el medio ambiente?
+7.	¿Qué características consideras esenciales en una aplicación de transporte para que la utilices regularmente?
+8.	¿Qué mejoras crees que podríamos implementar en los medios de transporte actuales para hacerlos más eficientes y rápidos?
+
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
 ![](https://eastus1-mediap.svc.ms/transform/thumbnail?provider=spo&inputFormat=png&cs=fFNQTw&docid=https%3A%2F%2Fupcedupe-my.sharepoint.com%3A443%2F_api%2Fv2.0%2Fdrives%2Fb!z3XiyfF_kE-JHQExcCmyJQcYfLjTwS5OpvDyTqB9vsKxExbOHz_JQJaay3NAEpdD%2Fitems%2F01NCRFCSLZGKWSK6SVIFBJQYPRECDXLNN5%3Fversion%3DPublished&access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvdXBjZWR1cGUtbXkuc2hhcmVwb2ludC5jb21AMGUwY2IwNjAtMDlhZC00OWY1LWEwMDUtNjhiOWI0OWFhMWY2IiwiaXNzIjoiMDAwMDAwMDMtMDAwMC0wZmYxLWNlMDAtMDAwMDAwMDAwMDAwIiwibmJmIjoiMTcxMjE3ODAwMCIsImV4cCI6IjE3MTIxOTk2MDAiLCJlbmRwb2ludHVybCI6ImtJVXQraDVTeERLRlIvNThqQVBhTTJBVmh3cDBLdlZNK2lKUGlMU1BMUGs9IiwiZW5kcG9pbnR1cmxMZW5ndGgiOiIxMTgiLCJpc2xvb3BiYWNrIjoiVHJ1ZSIsInZlciI6Imhhc2hlZHByb29mdG9rZW4iLCJzaXRlaWQiOiJZemxsTWpjMVkyWXROMlptTVMwMFpqa3dMVGc1TVdRdE1ERXpNVGN3TWpsaU1qSTEiLCJzaWduaW5fc3RhdGUiOiJbXCJrbXNpXCJdIiwibmFtZWlkIjoiMCMuZnxtZW1iZXJzaGlwfHUyMDIxMTYwNzhAdXBjLmVkdS5wZSIsIm5paSI6Im1pY3Jvc29mdC5zaGFyZXBvaW50IiwiaXN1c2VyIjoidHJ1ZSIsImNhY2hla2V5IjoiMGguZnxtZW1iZXJzaGlwfDEwMDMyMDAxMDYzMmZiY2VAbGl2ZS5jb20iLCJzaWQiOiJjZTI5M2NkYi1lNTcxLTQwM2QtYTFlOS1jZDBlZTY0YmYxODgiLCJ0dCI6IjAiLCJpcGFkZHIiOiIxOTAuMjM5LjEzOS4xOTkiLCJzbmlkIjoiNiIsInN0cCI6InQifQ.LbA7TQMFiHXHIUO8E7rHskJGFUz5iegf8P9I6oPk-WQ&cTag=%22c%3A%7B25AD3279-557A-4241-9861-F1208775B5BD%7D%2C1%22&encodeFailures=1&width=1675&height=943&srcWidth=1920&srcHeight=1080)
