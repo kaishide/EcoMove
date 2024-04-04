@@ -239,7 +239,7 @@ EcoMove aprovecha la tecnología para conectar a los usuarios con vehículos el�
 |Nombre|Ames Oviedo, Mariano José (U202211371)|
 |Soy Mariano, tengo 18 años actualmente curso mi 5to ciclo de la carrera de Ingeniería de Software. Me considero una persona responsable y dispuesta a afrontar desafíos. Considero que estas cualidades beneficiaran a mi equipo para poder completar un trabajo de calidad.||
 |Nombre|Coraje Bayona, Jair Andreé (U202118775)|
-|.||
+|Soy Jair, tengo 19 años actualmente estoy cursando la carrera de Ingeniería de Software. Considero que puedo adaptarme a las situaciones que se me proponga en el equipo, logrando aportar en este de buena manera, para asegurar un trabajo bien hecho. Adémas siento que mis habilidades para aprender me van a poder ayudar a completar el curso de manera eficiente y apoyar a mi equipo en lo que se pueda..||
 |Nombre|Horna Silva, Fabio Ernesto (U202020229)|
 |.||
 |Nombre|Lecca Choccare, Christopher Bryan (U202211399)|
