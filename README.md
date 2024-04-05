@@ -492,7 +492,7 @@ En esta sección se han definido una cierta cantidad de preguntas para nuestros 
 
 ### 2.2.2. Registro de entrevistas
 **Entrevista a Lilian Luara**
-![Entrevista a Lilian Luara](https://github.com/UPC-EcoGo/EcoMove/blob/main/Entrevista%20Lilian%20Imagen.png?raw=true
+![Entrevista a Lilian Luara](https://github.com/UPC-EcoGo/EcoMove/raw/main/Entrevista%20Lilian%20Imagen.png)
 En la entrevista con Lilian Elizabeth Luara, una estudiante de International Business, se discute su experiencia con el transporte hacia la universidad. Lilian reside en Santiago de Surco, a 9 km de su universidad, y utiliza principalmente el autobús, aunque a veces encuentra problemas con los microbuses piratas. Considera importante la disponibilidad de medios de transporte reconocidos y seguros para viajar rápidamente a la universidad. Aprecia la idea de una aplicación que ofrezca opciones de transporte para distancias cortas, especialmente si es seguro y personalizado, y sugiere identificarlos de manera clara, como antes con los taxis amarillos. Está dispuesta a probar nuevas formas de transporte más eficientes y amigables con el medio ambiente y sugiere que una mejora podría ser una señalización distintiva para los vehículos de transporte corto.
 
 ## 2.3. Needfinding
