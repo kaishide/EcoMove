@@ -514,6 +514,200 @@ En la entrevista con Lilian Elizabeth Luara, una estudiante de International Bus
 ### 2.3.5. As-is Scenario Mapping
 ![](https://github.com/UPC-EcoGo/EcoMove/blob/main/Needfinding/As%20Is.png?raw=true)
 
+# Capítulo III: Requirements Specification
+## 3.2 User stories
+<table>
+  <thead> 
+    <tr>
+      <th>User Story ID</th>
+      <th>Título</th>
+      <th width = 30%>Descripción</th>
+      <th width = 50%>Criterios de aceptación</th>
+      <th width = 5%>Relacionado con EpicID</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr> <!--US01-->
+      <td>US01</td>
+      <td>Inicio de sesión</td>
+      <td>Como usuario quiero poder ingresar al sitio web con mi nombre de usuario y contraseña para visualizar la información con mi cuenta</td>
+      <td>
+      <strong>Dado que</strong> el usuario tenga una cuenta registrada en la pagina web<br> 
+      <strong>Cuando</strong> el usuario de click en la opción de iniciar sesión<br>
+      <strong>Y</strong> Ingrese su nombre de usuario y contraseña<br>
+      <strong>Entonces</strong> se mostrara al usuario su cuenta</td>
+      <td>EP01</td>
+    </tr>
+    <tr> <!--US02-->
+      <td>US02</td>
+      <td>Registro de nuevo usuario</td>
+      <td>Como usuario nuevo, quiero poder registrarme en la aplicación para acceder a ella</td>
+      <td>
+      <strong>Dado que</strong> no tenga una cuenta registrada en la pagina web<br> 
+      <strong>Cuando</strong> el usuario de click en la opción de registro<br>
+      <strong>Y</strong> Ingrese sus datos como nombre de usuario, contraseña, ciudad, etc<br>
+      <strong>Entonces</strong> se creara una cuenta para el usuario y se le dara acceso</td>
+      <td>EP01</td>
+    </tr>
+    <tr> <!--US03-->
+      <td>US03</td>
+      <td>Buscar Transporte Cercano</td>
+      <td>Como usuario, quiero poder buscar vehiculos disponibles cerca de mi ubicación actual para facilitar mi desplazamiento.</td>
+      <td>
+      <strong>Dado que</strong> se encuentre en la sección de busqueda de vehiculos<br> 
+      <strong>Cuando</strong> el usuario de click en la opción de buscar vehiculos cercanos<br>
+      <strong>Y</strong> verifique su ubicación en el menú<br>
+      <strong>Entonces</strong> se mostrara en una lista al usuario los vehiculos cercanos</td>
+      <td>EP01</td>
+    </tr>
+    <tr> <!--US04-->
+      <td>US04</td>
+      <td>Visualización de Disponibilidad</td>
+      <td>Como usuario, quiero ver en tiempo real la disponibilidad de vehiculos en mi área para planificar mi viaje de manera eficiente.</td>
+      <td>
+      <strong>Dado que</strong> el usuario se encuentre en la sección de busqueda de vehiculos<br> 
+      <strong>Y</strong> el usuario seleccione un vehiculo para verificar su disponibilidad<br>
+      <strong>Cuando</strong> el usuario de click en la opción de verificar disponibilidad <br>
+      <strong>Entonces</strong> se mostrara al usuario la disponibilidad del vehiculo solicitado</td>
+      <td>EP01</td>
+    </tr>
+    <tr> <!--US05-->
+      <td>US05</td>
+      <td>Reservar Transporte</td>
+      <td>Como usuario, deseo poder reservar un scooter eléctrico o una bicicleta por adelantado para asegurar mi medio de transporte cuando lo necesite.</td>
+      <td>
+      <strong>Dado que</strong> el usuario haya seleccionado un vehiculo que se encuentre disponible<br> 
+      <strong>Cuando</strong> el usuario de click en la opción de reservar el transporte<br>
+      <strong>Y</strong> elija un horario disponible para el vehiculo<br>
+      <strong>Entonces</strong> se hara una reserva del vehiculo para el usuario</td>
+      <td>EP01</td>
+    </tr>
+    <tr> <!--US06-->
+      <td>US06</td>
+      <td>Notificaciones de Disponibilidad</td>
+      <td>Como usuario, deseo recibir notificaciones en tiempo real cuando haya scooters eléctricos o bicicletas disponibles cerca de mi ubicación.</td>
+      <td>
+      <strong>Dado que</strong> el usuario se encuentre en la sección de busqueda de vehiculos<br> 
+      <strong>Cuando</strong> el usuario seleccione un vehiculo no disponible actualmente<br>
+      <strong>Entonces</strong> se le dara al usuario la posibilidad de seguir la disponibilidad del vehiculo en tiempo real </td>
+      <td>EP01</td>
+    </tr>
+        <tr> <!--US07-->
+      <td>US07</td>
+      <td>Calificación y Reseñas</td>
+      <td>Como usuario, quiero poder calificar y dejar reseñas sobre mi experiencia con vehiculos utilizados y la zona donde lo tome para ayudar a otros usuarios a tomar decisiones informadas.</td>
+      <td>
+      <strong>Dado que</strong> el usuario tenga una cuenta registrada en la pagina web<br>
+      <strong>Cuando</strong> el usuario de click en la opción de dejar reseña<br>
+      <strong>Y</strong> seleccione la zona o tipo de vehiculo donde quiera dejar su reseña<br>
+      <strong>Y</strong> escriba su reseña y de click en publicar<br>
+      <strong>Entonces</strong> se creara la reseña del usuario y sera visible para otros usuarios</td>
+      <td>EP01</td>
+    </tr>
+        <tr> <!--US08-->
+      <td>US08</td>
+      <td>Opciones de Pago</td>
+      <td>Como usuario, deseo tener varias opciones de pago integradas en la aplicación para pagar por el uso del transporte alternativo de manera conveniente.</td>
+      <td>
+      <strong>Dado que</strong> el usuario tenga una cuenta registrada en la pagina web<br> 
+      <strong>Cuando</strong> el usuario de click en la opción de pagar<br>
+      <strong>Entonces</strong> se mostrara al usuario las diferentes opciones de pagos como tarjetas o monedereos virtuales</td>
+      <td>EP01</td>
+    </tr>
+        <tr> <!--US09-->
+      <td>US09</td>
+      <td>Historial de viajes</td>
+      <td>Como usuario, quiero poder acceder a un historial de mis viajes anteriores con detalles como la duración, distancia recorrida y costo para realizar un seguimiento de mis desplazamientos.</td>
+      <td>
+      <strong>Dado que</strong> el usuario se encuentre en la sección de su cuenta en la pagina<br> 
+      <strong>Cuando</strong> el usuario de click en la opción de historial de viajes<br>
+      <strong>Entonces</strong> se mostrara al usuario sus ultimos viajes realizados, junto a los detalles de cada uno.</td>
+      <td>EP01</td>
+    </tr>
+        <tr> <!--US10-->
+      <td>US10</td>
+      <td>Promociones y Descuentos</td>
+      <td>Como usuario, deseo recibir promociones y descuentos especiales en el uso de scooters eléctricos o bicicletas para incentivar su uso regular.</td>
+      <td>
+      <strong>Dado que</strong> el usuario tenga una cuenta registrada en la pagina web<br> 
+      <strong>Cuando</strong> se presente un nuevo descuento u oferta en los planes<br>
+      <strong>Entonces</strong> se mostrara al usuario una notificación de la promoción en su correo o en la pagina</td>
+      <td>EP01</td>
+    </tr>
+        <tr> <!--US11-->
+      <td>US11</td>
+      <td>Soporte al Cliente</td>
+      <td>Como usuario, quiero tener acceso fácil a un servicio de soporte al cliente en caso de problemas técnicos, consultas o reclamaciones relacionadas con el uso de la aplicación o los transportes alternativos.</td>
+      <td>
+      <strong>Dado que</strong> el usuario tenga una cuenta registrada en la pagina web<br> 
+      <strong>Cuando</strong> el usuario de click en la opción de soporte al cliente<br>
+      <strong>Y</strong> ingrese el tipo de soporte que desea recibir<br>
+      <strong>Entonces</strong> se contactara al usuario con un asesor de servicio al cliente</td>
+      <td>EP01</td>
+    </tr>
+        <tr> <!--US12-->
+      <td>US12</td>
+      <td>Navegación por Mapa</td>
+      <td>Como usuario, quiero tener la opción de ver un mapa dentro de la aplicación que muestre la ubicación de los scooters eléctricos o bicicletas disponibles y las estaciones de recogida.</td>
+      <td>
+      <strong>Dado que</strong> el usuario tenga una cuenta registrada en la pagina web<br> 
+      <strong>Cuando</strong> el usuario de click en la opcipón de buscar vehiculos cercanos<br>
+      <strong>Entonces</strong> se mostrara al usuario los diferentes vehiculos en el mapa</td>
+      <td>EP01</td>
+    </tr>
+        <tr> <!--US13-->
+      <td>US13</td>
+      <td>Alertas de Seguridad</td>
+      <td>Como usuario, deseo recibir alertas de seguridad y consejos sobre el uso seguro de scooters eléctricos o bicicletas para prevenir accidentes y lesiones.</td>
+      <td>
+      <strong>Dado que</strong> el usuario tenga una cuenta registrada en la pagina web<br> 
+      <strong>Cuando</strong> el usuario ingrese a la aplicación con su cuenta<br>
+      <strong>Entonces</strong> se mostrara al usuario avisos de seguridad y consejos de uso seguro de los vehiculos ofrecidos</td>
+      <td>EP01</td>
+    </tr>
+        <tr> <!--US14-->
+      <td>US14</td>
+      <td>Personalización de preferencias</td>
+      <td>Como usuario, quiero poder personalizar mis preferencias sobre notificaciones o vehiculos preferidos</td>
+      <td>
+      <strong>Dado que</strong> el usuario tenga una cuenta registrada en la pagina web<br> 
+      <strong>Cuando</strong> el usuario de click en la opción de perfil<br>
+      <strong>Y</strong> el usuario de click en la opción de preferencias<br>
+      <strong>Entonces</strong> se le permitira al usuario cambiar sus preferencias y su perfil</td>
+      <td>EP01</td>
+    </tr>
+        <tr> <!--US15-->
+      <td>US15</td>
+      <td>Paraderos de transporte publico</td>
+      <td>Como usuario, deseo que la aplicación muestre las ubicaciones de los paraderos cercanos para poder planificar mis viajes</td>
+      <td>
+      <strong>Dado que</strong> el usuario tenga una cuenta registrada en la pagina web<br> 
+      <strong>Cuando</strong> el usuario de click en la opción de buscar transporte cercano<br>
+      <strong>Entonces</strong> se mostrara al usuario en el mapa la información de paraderos de transporte publico cercanos</td>
+      <td>EP01</td>
+    </tr>
+        <tr> <!--US16-->
+      <td>US16</td>
+      <td>Gestión de Suscripciones</td>
+      <td>Como usuario, deseo poder suscribirme a planes de membresía para acceder a beneficios exclusivos en el uso de vehiculos ofrecidos por la aplicación</td>
+      <td>
+      <strong>Dado que</strong> el usuario tenga una cuenta registrada en la pagina web<br> 
+      <strong>Cuando</strong> el usuario de click en la opción de suscripciones<br>
+      <strong>Entonces</strong> se mostrara al usuario su cuenta con las suscripciones activas y las opciones  de suscripciones y beneficios que se le ofrecen</td>
+      <td>EP01</td>
+    </tr>
+        <tr> <!--US17-->
+      <td>US17</td>
+      <td>Reporte de Problemas</td>
+      <td>Como usuario, deseo poder reportar problemas técnicos con la pagina web o los vehiculos para garantizar mi comodidad y seguridad y ayudar a todos los usuarios</td>
+      <td>
+      <strong>Dado que</strong> el usuario tenga una cuenta registrada en la pagina web<br> 
+      <strong>Cuando</strong> el usuario de click en la opción de reportar un problema<br>
+      <strong>Y</strong> ingrese los datos del problema que va a reportar<br>
+      <strong>Entonces</strong> se reportara el problema al soporte tecnico de la pagina</td>
+      <td>EP01</td>
+    </tr>
+
 # Bibliografía
 
 
