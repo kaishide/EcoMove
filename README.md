@@ -707,6 +707,61 @@ En la entrevista con Lilian Elizabeth Luara, una estudiante de International Bus
       <strong>Entonces</strong> se reportara el problema al soporte tecnico de la pagina</td>
       <td>EP01</td>
     </tr>
+    <tr>
+      <td>US18</td>
+      <td>Redirección a registro desde la landing page</td>
+      <td>Como usuario, deseo poder tener la opción de registrarme desde la landing page, para poder mejorar la comodidad del registro.</td>
+      <td>
+      <strong>Dado que</strong> el usuario se encuentre en la landing page del producto<br> 
+      <strong>Cuando</strong> el usuario de click en la opción de registro<br>
+      <strong>Entonces</strong> el usuario sera redirigido al registro de la pagina principal para que continue con el proceso de registro.</td>
+      <td>EP01</td>
+    </tr>
+    <tr>
+      <td>US19</td>
+      <td>Barra de navegación en la landing page</td>
+      <td>Como usuario, deseo poder navegar a través de las secciones de la landing page de manera sencilla con una barra de navegación</td>
+      <td>
+      <strong>Dado que</strong> el usuario se encuentre en la landing page del producto<br> 
+      <strong>Cuando</strong> el usuario de click en la sección a la que se quiera dirigir<br>
+      <strong>Entonces</strong> la sección con la información que solicito el usuario se mostrara en pantalla.</td>
+      <td>EP01</td>
+    </tr>
+    <tr>
+      <td>US20</td>
+      <td>Información sobre el producto</td>
+      <td>Como usuario, deseo poder ver la información sobre el producto desde la landing page, para hacer mas sencilla mi comprensión del mismo</td>
+      <td>
+      <strong>Dado que</strong> el usuario se encuentre en la landing page del producto<br> 
+      <strong>Cuando</strong> el usuario de click en la sección de información general<br>
+      <strong>Entonces</strong> se le mostrara al usuario la información del producto de manera clara y resumida
+      </td>
+      <td>EP01</td>
+    </tr>
+    <tr>
+      <td>US21</td>
+      <td>Información sobre el equipo</td>
+      <td>Como usuario, deseo poder ver la información sobre el equipo de desarrollo del producto desde la landing page, para poder conocer mas sobre la organización</td>
+      <td>
+      <strong>Dado que</strong> el usuario se encuentre en la landing page del producto<br> 
+      <strong>Cuando</strong> el usuario de click en la sección de "about us"<br>
+      <strong>Entonces</strong> se le mostrara al usuario la información de la startup
+      </td>
+      <td>EP01</td>
+    </tr>
+    <tr>
+      <td>US22</td>
+      <td>Información de contacto</td>
+      <td>Como usuario, deseo poder ver los diferentes contactos del equipo de desarrollo del producto, para poder comunicarme en caso de cualquier duda</td>
+      <td>
+      <strong>Dado que</strong> el usuario se encuentre en la landing page del producto<br> 
+      <strong>Cuando</strong> el usuario de click en la sección de "contactanos"<br>
+      <strong>Entonces</strong> se le mostrara al usuario la información de contacto del equipo como correo, telefono y redes sociales
+      </td>
+      <td>EP01</td>
+    </tr>
+  </tbody>
+</table>
 
 # Bibliografía
 
