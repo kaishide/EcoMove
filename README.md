@@ -121,9 +121,7 @@
         5.2.1.2. Sprint Backlog 1. <br>
         5.2.1.3. Development Evidence for Sprint Review. <br>
         5.2.1.4. Testing Suite Evidence for Sprint Review. <br>
-        5.2.1.5. Execution Evidence for Sprint Review. <br>
- 
-        
+        5.2.1.5. Execution Evidence for Sprint Review. <br>        
         <br>
       </td>
     </tr>
@@ -198,6 +196,18 @@
 |[4.7.2. Class Dictionary](#472-class-dictionary)|
 |[4.8. Database Design](#48-database-design)|
 |[4.8.1. Database Diagram](#481-database-diagram)|
+|[5.1. Software Configuration Management](#51-software-configuration)|
+|[5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)| 
+|[5.1.2. Source Code Management](#512-source-code-management)|
+|[5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)|
+|[5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)|
+|[5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)|
+|[5.2.1. Sprint 1](#521-sprint-1)|
+|[5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)|
+|[5.2.1.2. Sprint Backlog 1](#5212-sprint-backlog-1)|
+|[5.2.1.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)|
+|[5.2.1.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)|
+|[5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)|
 |[Bibliografía](#bibliografía)|
 
 # Student Outcome
