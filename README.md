@@ -110,6 +110,20 @@
         4.7.2. Class Dictionary. <br>
         4.8. Database Design. <br>
         4.8.1. Database Diagram. <br>
+        5.1. Software Configuration Management. <br>
+        5.1.1. Software Development Environment Configuration.  <br>
+        5.1.2. Source Code Management. <br>
+        5.1.3. Source Code Style Guide & Conventions. <br>
+        5.1.4. Software Deployment Configuration. <br>
+        5.2. Landing Page, Services & Applications Implementation. <br>
+        5.2.1. Sprint 1. <br>
+        5.2.1.1. Sprint Planning 1. <br>
+        5.2.1.2. Sprint Backlog 1. <br>
+        5.2.1.3. Development Evidence for Sprint Review. <br>
+        5.2.1.4. Testing Suite Evidence for Sprint Review. <br>
+        5.2.1.5. Execution Evidence for Sprint Review. <br>
+ 
+        
         <br>
       </td>
     </tr>
