@@ -229,18 +229,18 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
   <tbody>
     <tr>
       <td>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</td>
-      <td></td>
-      <td>
-      </td>
+      <td> - <strong>Fabio Horna Silva:</strong> Participación en el proceso de planificación del sprint 1. Elaboración del backlog del proyecto. Corrección de historias de usuario según las convenciones establecidas. Realización de una entrevista con el cliente para comprender sus necesidades.</td>
+      <td><strong>Fabio Horna Silva:</strong> La participación activa en equipos multidisciplinarios durante el proceso de desarrollo del proyecto me brindó la oportunidad de colaborar de manera efectiva y eficiente, fortaleciendo mis habilidades para trabajar en entornos interdisciplinarios. Además, la elaboración del backlog y la corrección de historias de usuario me permitieron profundizar en el conocimiento del dominio de aplicación del proyecto y comprender las necesidades específicas del cliente. Esta experiencia fue fundamental para mi desarrollo profesional en el campo de la ingeniería de software.</td>
     </tr>
     <tr>
       <td>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</td>
-      <td></td>
-      <td>
-      </td>
+      <td>- <strong>Fabio Horna Silva:</strong> Realización de una entrevista detallada con el cliente para comprender sus necesidades y requisitos específicos. - <strong>Fabio Horna Silva:</strong> Participación en la planificación del sprint 1. Elaboración del backlog y corrección de historias de usuario según las convenciones establecidas. Desarrollo de evidencia de desarrollo, pruebas y ejecución para la revisión del sprint.</td>
+      <td><strong>Fabio Horna Silva:</strong> La entrevista realizada con el cliente me proporcionó un conocimiento profundo del dominio de aplicación del proyecto, permitiéndome comprender las necesidades y requisitos específicos del sector empresarial al que está dirigido. Además, mi participación en la planificación del sprint 1 y la elaboración del backlog me brindaron una visión más amplia del dominio de aplicación y las soluciones de software requeridas. La corrección de historias de usuario y el desarrollo de evidencia para la revisión del sprint también contribuyeron significativamente a mi comprensión del sector empresarial y al desarrollo de soluciones de software efectivas.</td>
     </tr>
   </tbody>
 </table>
+
+
 
 
 # Capítulo I: Introducción
@@ -265,7 +265,7 @@ EcoMove aprovecha la tecnología para conectar a los usuarios con vehículos el�
 |Nombre|Coraje Bayona, Jair Andreé (U202118775)|
 |Soy Jair, tengo 19 años actualmente estoy cursando la carrera de Ingeniería de Software. Considero que puedo adaptarme a las situaciones que se me proponga en el equipo, logrando aportar en este de buena manera, para asegurar un trabajo bien hecho. Adémas siento que mis habilidades para aprender me van a poder ayudar a completar el curso de manera eficiente y apoyar a mi equipo en lo que se pueda..||
 |Nombre|Horna Silva, Fabio Ernesto (U202020229)|
-|.||
+|Soy Fabio, tengo 20 años actualmente curso mi 6to ciclo de la carrera de ingenieria de software, Me tiendo a considerar una persona seria con aptitudes para trabajar en equipo, siempre me ha gustado la informatica, la matematica, y la programacion.||
 |Nombre|Lecca Choccare, Christopher Bryan (U202211399)|
 |Soy Christopher, tengo 19 años y actualmente curso mi 5to ciclo de la carrera de Ingeniería de Software. Considero que mi determinación y disposición aportarán de manera significativa a presentar junto a mi equipo, trabajos de calidad. Además, mi capacidad rápida de aprendizaje ayudará a emplear las nuevas tecnologías enseñadas en el curso de forma eficiente.||
 |Nombre|Sosa Colca, Angello Rodolfo (U202212027)|
