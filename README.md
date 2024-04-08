@@ -516,6 +516,19 @@ En la entrevista con Lilian Elizabeth Luara, una estudiante de International Bus
 
 # Capítulo III: Requirements Specification
 ## 3.2 User stories
+
+| EPIC ID | Descripción de la épica                    |
+|---------|--------------------------------------------|
+| EP01    | Autenticación y Gestión de Usuarios        |
+| EP02    | Búsqueda y Reserva de Transporte           |
+| EP03    | Comunicaciones y Notificaciones            |
+| EP04    | Gestión de Viajes y Soporte                |
+| EP05    | Finanzas y Fidelización                   |
+| EP06    | Información y Navegación en la Landing Page |
+
+
+
+
 <table>
   <thead> 
     <tr>
