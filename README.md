@@ -558,7 +558,7 @@ En la entrevista con Lilian Elizabeth Luara, una estudiante de International Bus
       <strong>Cuando</strong> el usuario de click en la opción de buscar vehiculos cercanos<br>
       <strong>Y</strong> verifique su ubicación en el menú<br>
       <strong>Entonces</strong> se mostrara en una lista al usuario los vehiculos cercanos</td>
-      <td>EP01</td>
+      <td>EP02</td>
     </tr>
     <tr> <!--US04-->
       <td>US04</td>
@@ -569,7 +569,7 @@ En la entrevista con Lilian Elizabeth Luara, una estudiante de International Bus
       <strong>Y</strong> el usuario seleccione un vehiculo para verificar su disponibilidad<br>
       <strong>Cuando</strong> el usuario de click en la opción de verificar disponibilidad <br>
       <strong>Entonces</strong> se mostrara al usuario la disponibilidad del vehiculo solicitado</td>
-      <td>EP01</td>
+      <td>EP02</td>
     </tr>
     <tr> <!--US05-->
       <td>US05</td>
@@ -580,7 +580,7 @@ En la entrevista con Lilian Elizabeth Luara, una estudiante de International Bus
       <strong>Cuando</strong> el usuario de click en la opción de reservar el transporte<br>
       <strong>Y</strong> elija un horario disponible para el vehiculo<br>
       <strong>Entonces</strong> se hara una reserva del vehiculo para el usuario</td>
-      <td>EP01</td>
+      <td>EP02</td>
     </tr>
     <tr> <!--US06-->
       <td>US06</td>
@@ -590,7 +590,7 @@ En la entrevista con Lilian Elizabeth Luara, una estudiante de International Bus
       <strong>Dado que</strong> el usuario se encuentre en la sección de busqueda de vehiculos<br> 
       <strong>Cuando</strong> el usuario seleccione un vehiculo no disponible actualmente<br>
       <strong>Entonces</strong> se le dara al usuario la posibilidad de seguir la disponibilidad del vehiculo en tiempo real </td>
-      <td>EP01</td>
+      <td>EP03</td>
     </tr>
         <tr> <!--US07-->
       <td>US07</td>
@@ -602,7 +602,7 @@ En la entrevista con Lilian Elizabeth Luara, una estudiante de International Bus
       <strong>Y</strong> seleccione la zona o tipo de vehiculo donde quiera dejar su reseña<br>
       <strong>Y</strong> escriba su reseña y de click en publicar<br>
       <strong>Entonces</strong> se creara la reseña del usuario y sera visible para otros usuarios</td>
-      <td>EP01</td>
+      <td>EP03</td>
     </tr>
         <tr> <!--US08-->
       <td>US08</td>
@@ -612,7 +612,7 @@ En la entrevista con Lilian Elizabeth Luara, una estudiante de International Bus
       <strong>Dado que</strong> el usuario tenga una cuenta registrada en la pagina web<br> 
       <strong>Cuando</strong> el usuario de click en la opción de pagar<br>
       <strong>Entonces</strong> se mostrara al usuario las diferentes opciones de pagos como tarjetas o monedereos virtuales</td>
-      <td>EP01</td>
+      <td>EP04</td>
     </tr>
         <tr> <!--US09-->
       <td>US09</td>
@@ -622,7 +622,7 @@ En la entrevista con Lilian Elizabeth Luara, una estudiante de International Bus
       <strong>Dado que</strong> el usuario se encuentre en la sección de su cuenta en la pagina<br> 
       <strong>Cuando</strong> el usuario de click en la opción de historial de viajes<br>
       <strong>Entonces</strong> se mostrara al usuario sus ultimos viajes realizados, junto a los detalles de cada uno.</td>
-      <td>EP01</td>
+      <td>EP05</td>
     </tr>
         <tr> <!--US10-->
       <td>US10</td>
@@ -632,7 +632,7 @@ En la entrevista con Lilian Elizabeth Luara, una estudiante de International Bus
       <strong>Dado que</strong> el usuario tenga una cuenta registrada en la pagina web<br> 
       <strong>Cuando</strong> se presente un nuevo descuento u oferta en los planes<br>
       <strong>Entonces</strong> se mostrara al usuario una notificación de la promoción en su correo o en la pagina</td>
-      <td>EP01</td>
+      <td>EP04</td>
     </tr>
         <tr> <!--US11-->
       <td>US11</td>
@@ -643,7 +643,7 @@ En la entrevista con Lilian Elizabeth Luara, una estudiante de International Bus
       <strong>Cuando</strong> el usuario de click en la opción de soporte al cliente<br>
       <strong>Y</strong> ingrese el tipo de soporte que desea recibir<br>
       <strong>Entonces</strong> se contactara al usuario con un asesor de servicio al cliente</td>
-      <td>EP01</td>
+      <td>EP05</td>
     </tr>
         <tr> <!--US12-->
       <td>US12</td>
@@ -653,7 +653,7 @@ En la entrevista con Lilian Elizabeth Luara, una estudiante de International Bus
       <strong>Dado que</strong> el usuario tenga una cuenta registrada en la pagina web<br> 
       <strong>Cuando</strong> el usuario de click en la opcipón de buscar vehiculos cercanos<br>
       <strong>Entonces</strong> se mostrara al usuario los diferentes vehiculos en el mapa</td>
-      <td>EP01</td>
+      <td>EP02</td>
     </tr>
         <tr> <!--US13-->
       <td>US13</td>
@@ -663,7 +663,7 @@ En la entrevista con Lilian Elizabeth Luara, una estudiante de International Bus
       <strong>Dado que</strong> el usuario tenga una cuenta registrada en la pagina web<br> 
       <strong>Cuando</strong> el usuario ingrese a la aplicación con su cuenta<br>
       <strong>Entonces</strong> se mostrara al usuario avisos de seguridad y consejos de uso seguro de los vehiculos ofrecidos</td>
-      <td>EP01</td>
+      <td>EP03</td>
     </tr>
         <tr> <!--US14-->
       <td>US14</td>
@@ -674,7 +674,7 @@ En la entrevista con Lilian Elizabeth Luara, una estudiante de International Bus
       <strong>Cuando</strong> el usuario de click en la opción de perfil<br>
       <strong>Y</strong> el usuario de click en la opción de preferencias<br>
       <strong>Entonces</strong> se le permitira al usuario cambiar sus preferencias y su perfil</td>
-      <td>EP01</td>
+      <td>EP05</td>
     </tr>
         <tr> <!--US15-->
       <td>US15</td>
@@ -684,7 +684,7 @@ En la entrevista con Lilian Elizabeth Luara, una estudiante de International Bus
       <strong>Dado que</strong> el usuario tenga una cuenta registrada en la pagina web<br> 
       <strong>Cuando</strong> el usuario de click en la opción de buscar transporte cercano<br>
       <strong>Entonces</strong> se mostrara al usuario en el mapa la información de paraderos de transporte publico cercanos</td>
-      <td>EP01</td>
+      <td>EP02</td>
     </tr>
         <tr> <!--US16-->
       <td>US16</td>
@@ -694,7 +694,7 @@ En la entrevista con Lilian Elizabeth Luara, una estudiante de International Bus
       <strong>Dado que</strong> el usuario tenga una cuenta registrada en la pagina web<br> 
       <strong>Cuando</strong> el usuario de click en la opción de suscripciones<br>
       <strong>Entonces</strong> se mostrara al usuario su cuenta con las suscripciones activas y las opciones  de suscripciones y beneficios que se le ofrecen</td>
-      <td>EP01</td>
+      <td>EP04</td>
     </tr>
         <tr> <!--US17-->
       <td>US17</td>
@@ -705,7 +705,7 @@ En la entrevista con Lilian Elizabeth Luara, una estudiante de International Bus
       <strong>Cuando</strong> el usuario de click en la opción de reportar un problema<br>
       <strong>Y</strong> ingrese los datos del problema que va a reportar<br>
       <strong>Entonces</strong> se reportara el problema al soporte tecnico de la pagina</td>
-      <td>EP01</td>
+      <td>EP05</td>
     </tr>
     <tr>
       <td>US18</td>
@@ -725,7 +725,7 @@ En la entrevista con Lilian Elizabeth Luara, una estudiante de International Bus
       <strong>Dado que</strong> el usuario se encuentre en la landing page del producto<br> 
       <strong>Cuando</strong> el usuario de click en la sección a la que se quiera dirigir<br>
       <strong>Entonces</strong> la sección con la información que solicito el usuario se mostrara en pantalla.</td>
-      <td>EP01</td>
+      <td>EP06</td>
     </tr>
     <tr>
       <td>US20</td>
@@ -736,7 +736,7 @@ En la entrevista con Lilian Elizabeth Luara, una estudiante de International Bus
       <strong>Cuando</strong> el usuario de click en la sección de información general<br>
       <strong>Entonces</strong> se le mostrara al usuario la información del producto de manera clara y resumida
       </td>
-      <td>EP01</td>
+      <td>EP06</td>
     </tr>
     <tr>
       <td>US21</td>
@@ -747,7 +747,7 @@ En la entrevista con Lilian Elizabeth Luara, una estudiante de International Bus
       <strong>Cuando</strong> el usuario de click en la sección de "about us"<br>
       <strong>Entonces</strong> se le mostrara al usuario la información de la startup
       </td>
-      <td>EP01</td>
+      <td>EP06</td>
     </tr>
     <tr>
       <td>US22</td>
@@ -758,10 +758,88 @@ En la entrevista con Lilian Elizabeth Luara, una estudiante de International Bus
       <strong>Cuando</strong> el usuario de click en la sección de "contactanos"<br>
       <strong>Entonces</strong> se le mostrara al usuario la información de contacto del equipo como correo, telefono y redes sociales
       </td>
-      <td>EP01</td>
+      <td>EP06</td>
     </tr>
   </tbody>
 </table>
+
+
+## 3.3 Impact Mapping
+
+
+## 3.3 Product Backlog
+| User Story ID | Título                                   | Descripción                                                                                                                                                  | Criterios de aceptación                                                                                                                                                                                                      | Relacionado con EpicID          | Story Points |
+|---------------|------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|--------------|
+| US01          | Inicio de sesión                         | Como usuario quiero poder ingresar al sitio web con mi nombre de usuario y contraseña para visualizar la información con mi cuenta.                          | Dado que el usuario tenga una cuenta registrada en la pagina web Cuando el usuario de click en la opción de iniciar sesión Y Ingrese su nombre de usuario y contraseña Entonces se mostrara al usuario su cuenta.          | Autenticación                   | 3            |
+| US02          | Registro de nuevo usuario                | Como usuario nuevo, quiero poder registrarme en la aplicación para acceder a ella.                                                                           | Dado que no tenga una cuenta registrada en la pagina web Cuando el usuario de click en la opción de registro Y Ingrese sus datos como nombre de usuario, contraseña, ciudad, etc Entonces se creara una cuenta para el usuario y se le dara acceso. | Autenticación                   | 5            |
+| US03          | Buscar Transporte Cercano                | Como usuario, quiero poder buscar vehiculos disponibles cerca de mi ubicación actual para facilitar mi desplazamiento.                                       | Dado que se encuentre en la sección de busqueda de vehiculos Cuando el usuario de click en la opción de buscar vehiculos cercanos Y verifique su ubicación en el menú Entonces se mostrara en una lista al usuario los vehiculos cercanos. | Búsqueda y Reserva               | 8            |
+| US04          | Visualización de Disponibilidad          | Como usuario, quiero ver en tiempo real la disponibilidad de vehiculos en mi área para planificar mi viaje de manera eficiente.                               | Dado que el usuario se encuentre en la sección de busqueda de vehiculos Y el usuario seleccione un vehiculo para verificar su disponibilidad Cuando el usuario de click en la opción de verificar disponibilidad Entonces se mostrara al usuario la disponibilidad del vehiculo solicitado. | Búsqueda y Reserva               | 5            |
+| US05          | Reservar Transporte                      | Como usuario, deseo poder reservar un scooter eléctrico o una bicicleta por adelantado para asegurar mi medio de transporte cuando lo necesite.              | Dado que el usuario haya seleccionado un vehiculo que se encuentre disponible Cuando el usuario de click en la opción de reservar el transporte Y elija un horario disponible para el vehiculo Entonces se hara una reserva del vehiculo para el usuario. | Búsqueda y Reserva               | 5            |
+| US06          | Notificaciones de Disponibilidad         | Como usuario, deseo recibir notificaciones en tiempo real cuando haya scooters eléctricos o bicicletas disponibles cerca de mi ubicación.                    | Dado que el usuario se encuentre en la sección de busqueda de vehiculos Cuando el usuario seleccione un vehiculo no disponible actualmente Entonces se le dara al usuario la posibilidad de seguir la disponibilidad del vehiculo en tiempo real. | Comunicaciones y Notificaciones  | 3            |
+| US07          | Calificación y Reseñas                   | Como usuario, quiero poder calificar y dejar reseñas sobre mi experiencia con vehiculos utilizados y la zona donde lo tome para ayudar a otros usuarios a tomar decisiones informadas. | Dado que el usuario tenga una cuenta registrada en la pagina web Cuando el usuario de click en la opción de dejar reseña Y seleccione la zona o tipo de vehiculo donde quiera dejar su reseña Y escriba su reseña y de click en publicar Entonces se creara la reseña del usuario y sera visible para otros usuarios. | Comunicaciones y Notificaciones  | 5            |
+| US08          | Opciones de Pago                         | Como usuario, deseo tener varias opciones de pago integradas en la aplicación para pagar por el uso del transporte alternativo de manera conveniente.         | Dado que el usuario tenga una cuenta registrada en la pagina web Cuando el usuario de click en la opción de pagar Entonces se mostrara al usuario las diferentes opciones de pagos como tarjetas o monedereos virtuales. | Finanzas                        | 3            |
+| US09          | Historial de viajes                      | Como usuario, quiero poder acceder a un historial de mis viajes anteriores con detalles como la duración, distancia recorrida y costo para realizar un seguimiento de mis desplazamientos.  | Dado que el usuario se encuentre en la sección de su cuenta en la pagina Cuando el usuario de click en la opción de historial de viajes Entonces se mostrara al usuario sus ultimos viajes realizados, junto a los detalles de cada uno. | Servicio al Cliente             | 2            |
+| US10          | Promociones y Descuentos                 | Como usuario, deseo recibir promociones y descuentos especiales en el uso de scooters eléctricos o bicicletas para incentivar su uso regular.                 | Dado que el usuario tenga una cuenta registrada en la pagina web Cuando se presente un nuevo descuento u oferta en los planes Entonces se mostrara al usuario una notificación de la promoción en su correo o en la pagina. | Finanzas                        | 3            |
+| US11          | Soporte al Cliente                       | Como usuario, quiero tener acceso fácil a un servicio de soporte al cliente en caso de problemas técnicos, consultas o reclamaciones relacionadas con el uso de la aplicación o los transportes alternativos. | Dado que el usuario tenga una cuenta registrada en la pagina web Cuando el usuario de click en la opción de soporte al cliente Y ingrese el tipo de soporte que desea recibir Entonces se contactara al usuario con un asesor de servicio al cliente. | Servicio al Cliente             | 3            |
+| US12          | Navegación por Mapa                      | Como usuario, quiero tener la opción de ver un mapa dentro de la aplicación que muestre la ubicación de los scooters eléctricos o bicicletas disponibles y las estaciones de recogida.  | Dado que el usuario tenga una cuenta registrada en la pagina web Cuando el usuario de click en la opción de buscar vehiculos cercanos Entonces se mostrara al usuario los diferentes vehiculos en el mapa. | Búsqueda y Reserva               | 5            |
+| US13          | Alertas de Seguridad                     | Como usuario, deseo recibir alertas de seguridad y consejos sobre el uso seguro de scooters eléctricos o bicicletas para prevenir accidentes y lesiones.       | Dado que el usuario tenga una cuenta registrada en la pagina web Cuando el usuario ingrese a la aplicación con su cuenta Entonces se mostrara al usuario avisos de seguridad y consejos de uso seguro de los vehiculos ofrecidos. | Comunicaciones y Notificaciones  | 2            |
+| US14          | Personalización de preferencias          | Como usuario, quiero poder personalizar mis preferencias sobre notificaciones o vehiculos preferidos                                                            | Dado que el usuario tenga una cuenta registrada en la pagina web Cuando el usuario de click en la opción de perfil Y el usuario de click en la opción de preferencias Entonces se le permitira al usuario cambiar sus preferencias y su perfil. | Servicio al Cliente             | 3            |
+| US15          | Paraderos de transporte publico          | Como usuario, deseo que la aplicación muestre las ubicaciones de los paraderos cercanos para poder planificar mis viajes                                          | Dado que el usuario tenga una cuenta registrada en la pagina web Cuando el usuario de click en la opción de buscar transporte cercano Entonces se mostrara al usuario en el mapa la información de paraderos de transporte publico cercanos. | Búsqueda y Reserva               | 3            |
+| US16          | Gestión de Suscripciones                 | Como usuario, deseo poder suscribirme a planes de membresía para acceder a beneficios exclusivos en el uso de vehiculos ofrecidos por la aplicación              | Dado que el usuario tenga una cuenta registrada en la pagina web Cuando el usuario de click en la opción de suscripciones Entonces se mostrara al usuario su cuenta con las suscripciones activas y las opciones de suscripciones y beneficios que se le ofrecen. | Finanzas                        | 5            |
+| US17          | Reporte de Problemas                     | Como usuario, deseo poder reportar problemas técnicos con la pagina web o los vehiculos para garantizar mi comodidad y seguridad y ayudar a todos los usuarios  | Dado que el usuario tenga una cuenta registrada en la pagina web Cuando el usuario de click en la opción de reportar un problema Y ingrese los datos del problema que va a reportar Entonces se reportara el problema al soporte tecnico de la pagina. | Servicio al Cliente             | 2            |
+| US18          | Redirección a registro desde la landing page | Como usuario, deseo poder tener la opción de registrarme desde la landing page, para poder mejorar la comodidad del registro.                                     | Dado que el usuario se encuentre en la landing page del producto Cuando el usuario de click en la opción de registro Entonces el usuario sera redirigido al registro de la pagina principal para que continue con el proceso de registro. | Autenticación                   | 2            |
+| US19          | Barra de navegación en la landing page  | Como usuario, deseo poder navegar a través de las secciones de la landing page de manera sencilla con una barra de navegación                                    | Dado que el usuario se encuentre en la landing page del producto Cuando el usuario de click en la sección a la que se quiera dirigir Entonces la sección con la información que solicito el usuario se mostrara en pantalla. | Información y Navegación         | 2            |
+| US20          | Información sobre el producto           | Como usuario, deseo poder ver la información sobre el producto desde la landing page, para hacer mas sencilla mi comprensión del mismo                           | Dado que el usuario se encuentre en la landing page del producto Cuando el usuario de click en la sección de información general Entonces se le mostrara al usuario la información del producto de manera clara y resumida. | Información y Navegación         | 2            |
+| US21          | Información sobre el equipo             | Como usuario, deseo poder ver la información sobre el equipo de desarrollo del producto desde la landing page, para poder conocer mas sobre la organización     | Dado que el usuario se encuentre en la landing page del producto Cuando el usuario de click en la sección de "about us" Entonces se le mostrara al usuario la información de la startup. | Información y Navegación         | 2            |
+| US22          | Información de contacto                 | Como usuario, deseo poder ver los diferentes contactos del equipo de desarrollo del producto, para poder comunicarme en caso de cualquier duda                   | Dado que el usuario se encuentre en la landing page del producto Cuando el usuario de click en la sección de "contactanos" Entonces se le mostrara al usuario la información de contacto del equipo como correo, telefono y redes sociales. | Información y Navegación         | 1            |
+
+## 5.2. Landing Page, Services & Applications Implementation. 
+### 5.2.1. Sprint 1 
+#### 5.2.1.1. Sprint Planning 1.
+
+| **Sprint Planning Background** |-----------------------------------------------------------------------------------------------------------------------|
+|--------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Date**                       | 2024-04-05                                                                                                                                                                                                                                                 |
+| **Time**                       | 7:00 PM                                                                                                                                                                                                                                                    |
+| **Location**                   | Canal de voz de la plataforma de Discord                                                                                                                                                                                                                   |
+| **Prepared By**                | Fabio Horna Silva                                                                                                                                                                                                                                          |
+| **Attendees (to planning meeting)** | Ames Oviedo, Mariano José/ Coraje Bayona, Jair Andreé/ Lecca Choccare, Christopher Bryan/ Sosa Colca, Angello Rodolfo/ Tongo Alejandro, Milagros Salet                                                                                                     |
+| **Sprint 1 Review**            | **Equipo de desarrollo:** El equipo realizó las tareas asignadas exitosamente para la realización de una buena captura de los requisitos del producto software y su diseño e implementación.<br>**Landing Page:** Se realizaron los diseños wireframe, mockup y prototype para posterior a ello, establecer el código de la página web estática en HTML, CSS y JavaScript. |
+| **Sprint 1 Retrospective**     | **Oportunidades de mejora:** Se vio que hay que mejorar un poco en la organización del equipo en cuanto a completar las tareas asignadas e ir midiendo avances.                                                                                              |
+| **Sprint Goal & User Stories** | **Sprint 1 Goal**<br>**Objetivos:**<br>Investigación: Realizar el UX Research<br>**Métrica:** Realización y demostración de los hallazgos.<br><br>Diseño: Realizar diseños wireframe, mockup y prototype de la Landing Page.<br>**Métrica:** Creación exitosa de mockups interactivos para al menos el 80%.<br><br>Programación: Codificar Landing Page en los lenguajes de HTML, CSS y JavaScript.<br>**Métrica:** Corrección exitosa del 100% del código a nivel de legibilidad.<br><br>Despliegue: Desplegar la solución estática<br>**Métrica:** Verificación de que la Landing Page se ha desplegado correctamente en el entorno de producción. |
+| **Sprint 1 Velocity**          | **16**                                                                                                                                                                                                                                                      |
+| **Sum of Story Points**        | **16**                                                                                                                                                                                                                                                      |
+
+
+
+#### 5.2.1.2. Sprint Backlog 1.
+
+| Épica ID | User Story ID | **Título de Historia de Usuario**      | **Descripción de Historia de Usuario**                                                                                  | **Criterios de Aceptación**                                                                                                                                      |
+|----------|---------------|---------------------------------------|-------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nombre de la Epic** | **Autenticación y Gestión de Usuarios**|----------------|-----------------------------|---------------------|
+| EPIC-01  | US01          | Inicio de sesión                      | Como usuario quiero poder ingresar al sitio web con mi nombre de usuario y contraseña para visualizar la información con mi cuenta. | DADO que el usuario tenga una cuenta registrada<br>Cuando el usuario haga clic en la opción de iniciar sesión<br>Y ingrese su nombre de usuario y contraseña<br>ENTONCES se mostrará al usuario su cuenta. |
+| EPIC-01  | US02          | Registro de nuevo usuario             | Como usuario nuevo, quiero poder registrarme en la aplicación para acceder a ella. | DADO que no tenga una cuenta registrada<br>Cuando el usuario haga clic en la opción de registro<br>Y ingrese sus datos como nombre de usuario, contraseña, ciudad, etc.<br>ENTONCES se creará una cuenta para el usuario y se le dará acceso. |
+| **Nombre de la Epic** | **Información y Navegación en la Landing Page** |----------------|-----------------------------|---------------------|
+| EPIC-06  | US18          | Redirección a registro desde la landing page | Como usuario, deseo poder tener la opción de registrarme desde la landing page, para poder mejorar la comodidad del registro. | DADO que el usuario se encuentre en la landing page del producto<br>Cuando el usuario haga clic en la opción de registro<br>ENTONCES el usuario será redirigido al registro de la página principal para que continúe con el proceso de registro. |
+| EPIC-06  | US19          | Barra de navegación en la landing page | Como usuario, deseo poder navegar a través de las secciones de la landing page de manera sencilla con una barra de navegación. | DADO que el usuario se encuentre en la landing page del producto<br>Cuando el usuario haga clic en la sección a la que se quiera dirigir<br>ENTONCES la sección con la información que solicitó el usuario se mostrará en pantalla. |
+| EPIC-06  | US20          | Información sobre el producto         | Como usuario, deseo poder ver la información sobre el producto desde la landing page, para hacer más sencilla mi comprensión del mismo. | DADO que el usuario se encuentre en la landing page del producto<br>Cuando el usuario haga clic en la sección de información general<br>ENTONCES se le mostrará al usuario la información del producto de manera clara y resumida. |
+| EPIC-06  | US21          | Información sobre el equipo           | Como usuario, deseo poder ver la información sobre el equipo de desarrollo del producto desde la landing page, para poder conocer más sobre la organización. | DADO que el usuario se encuentre en la landing page del producto<br>Cuando el usuario haga clic en la sección de "about us"<br>ENTONCES se le mostrará al usuario la información de la startup. |
+| **Nombre de la Epic** | **Búsqueda y Reserva de Transporte** |----------------|-----------------------------|---------------------|
+| EPIC-02  | US03          | Buscar Transporte Cercano             | Como usuario, quiero poder buscar vehículos disponibles cerca de mi ubicación actual para facilitar mi desplazamiento. | DADO que se encuentre en la sección de búsqueda de vehículos<br>Cuando el usuario haga clic en la opción de buscar vehículos cercanos<br>Y verifique su ubicación en el menú<br>ENTONCES se mostrará en una lista al usuario los vehículos cercanos. |
+
+#### 5.2.1.3. Development Evidence for Sprint Review. 
+
+
+
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review. 
+
+
+
+
+#### 5.2.1.5. Execution Evidence for Sprint Review. 
+
+
+
 
 # Bibliografía
 
